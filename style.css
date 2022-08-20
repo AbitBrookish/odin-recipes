@@ -1,5 +1,9 @@
 html {
   background-color: #fceed1;
-  color: #7d3cff;
+  color: #343232e9;
   font-family: Verdana, "Times New Roman", Tahoma, sans-serif;
+}
+
+a {
+  color: #7d3cff;
 }
