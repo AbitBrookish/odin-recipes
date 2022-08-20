@@ -7,3 +7,18 @@ html {
 a {
   color: #7d3cff;
 }
+
+.animated-gif {
+  width: 700px;
+  height: auto;
+}
+
+#animated {
+  width: 400px;
+  height: auto;
+}
+
+.food.image {
+  width: 800px;
+  height: auto;
+}
