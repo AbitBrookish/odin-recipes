@@ -8,6 +8,19 @@ a {
   color: #7d3cff;
 }
 
+.header {
+  text-align: center;
+}
+
+body div#intro {
+  text-align: center;
+}
+
+ul,
+ol {
+  text-align: justify;
+}
+
 .animated-gif {
   width: 700px;
   height: auto;
